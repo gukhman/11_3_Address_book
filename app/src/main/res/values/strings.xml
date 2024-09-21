@@ -1,0 +1,9 @@
+<resources>
+    <string name="ETNameHint">Имя</string>
+    <string name="ETSurnameHint">Фамилия</string>
+    <string name="ETAddressHint">Адрес</string>
+    <string name="ETPhoneHint">Телефон</string>
+    <string name="BTNSaveText">Сохранить</string>
+    <string name="menuItemExit">Выход</string>
+    <string name="app_name">Address Book</string>
+</resources>
